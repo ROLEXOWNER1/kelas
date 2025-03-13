@@ -7,7 +7,7 @@
 #include <time.h>
 
 void usage() {
-    printf("Usage: ./IPxKINGYT ip port time threads\n");
+    printf("Usage: ./rishi ip port time threads\n");
     exit(1);
 }
 
@@ -114,6 +114,6 @@ int main(int argc, char *argv[]) {
     }
 
     free(thread_ids);
-    printf("JOIN @CRACKWAR0 MADE BY DESTROYER\n");
+    printf("JOIN @rishi MADE BY rare\n");
     return 0;
 }
